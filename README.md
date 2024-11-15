@@ -36,6 +36,6 @@ Libraries & Tools: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 Data Visualization: Power BI, Tableau
 Databases: MySQL
 AI/ML Frameworks: TensorFlow, PyTorch
--💡 Vision:
+- 💡 Vision:
 To be a driving force in the evolution of AI and data science, creating solutions that are not only innovative but also ethical, sustainable, and impactful.
 
