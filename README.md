@@ -1,7 +1,8 @@
-👋 Hi, I’m @vidita30
+👋 
+# Hi, I’m Vidita Dhavane
 Welcome to my GitHub! 🚀 I'm Vidita, a passionate final-year BTech student specializing in Artificial Intelligence and Data Science. With a strong curiosity for innovation, I thrive on using data-driven insights to solve real-world problems and create impactful AI solutions.
 
-👀 I’m interested in:
+- 👀 I’m interested in:
 Unveiling insights through data analysis and visualizations that tell compelling stories.
 Developing AI models that make a difference, from healthcare fraud detection to sound localization.
 Tackling complex challenges in fields like healthcare, entertainment, education, and sustainability.
