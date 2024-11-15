@@ -7,11 +7,13 @@ Unveiling insights through data analysis and visualizations that tell compelling
 Developing AI models that make a difference, from healthcare fraud detection to sound localization.
 Tackling complex challenges in fields like healthcare, entertainment, education, and sustainability.
 Exploring how AI and machine learning can shape the future across industries.
-- 🌱 I’m currently learning:
-Advanced machine learning algorithms for predictive analytics and optimization.
-Mastering API integration by working with platforms like Spotify API for innovative projects.
-Developing dynamic dashboards with Power BI and enhancing storytelling with SQL and Python.
-Expanding my expertise in deep learning techniques for sound perception and localization.
+- 💼 Internship Experiences:
+1. DRDO (Defence Research and Development Organisation):
+Focused on audio perception and localization, applying advanced AI techniques to achieve accurate sound source identification.
+
+2. Vishwakarma University:
+Worked on home object detection using computer vision and deep learning, enhancing object recognition in real-world environments.
+
 - 💞️ I’m looking to collaborate on:
 Data science projects that require thoughtful analysis, robust models, and actionable insights.
 Open-source contributions in AI and data science to make impactful tools accessible to everyone.
