@@ -21,7 +21,7 @@ Research-oriented projects focusing on healthcare, climate change, or education 
 - 📫 How to reach me:
 Feel free to connect with me via:
 LinkedIn: https://www.linkedin.com/in/vidita-dhavane-46bbb3235/
--⚡ Fun fact:
+- ⚡ Fun fact:
 I ranked in the top 30,000 out of 510,000 students in the prestigious Young Turks contest by Naukri.com.
 I organized and led a multi-domain hackathon under the Visionary Club, fostering innovation across diverse sectors.
 I'm not just a data enthusiast but also a skilled public speaker, passionate about breaking down complex ideas into simple, engaging concepts.
